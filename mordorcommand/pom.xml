@@ -61,7 +61,7 @@
                         <archive>
                             <manifest>
                                 <addClasspath>true</addClasspath>
-                                <mainClass>edu.pingpong.mordor-comand.App</mainClass>
+                                <mainClass>edu.pingpong.mordorcommand.App</mainClass>
                                 <classpathPrefix>dependency-jars/</classpathPrefix>
                             </manifest>
                         </archive>
